@@ -1,0 +1,23 @@
+.nthjnt{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.bg-dark{
+	
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wow{
+    background-image:url("https://i.ibb.co/fMyKJX6/pexels-nordic-overdrive-627678.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+.mt-50{
+	margin-top: 50px;
+}
+#canvas{
+    border: 2px solid black;
+}
